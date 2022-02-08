@@ -27,7 +27,7 @@ Users should be able to:
 <div>
   <div>Active State</div>
   
-<img src="./output/active.png" width="40%" height="300px">
+<img src="./output/active.png" width="80%" height="300px">
   <div> Desktop</div>
   
 <img src="./output/desk.png" width="100%">
